@@ -1,0 +1,1 @@
+## call,apply,bind代码实现思路
